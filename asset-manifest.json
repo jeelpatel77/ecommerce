@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Ecommerc/static/css/main.bc8b40b4.css",
+    "main.js": "/Ecommerc/static/js/main.ec1c1021.js",
+    "static/js/453.3131af67.chunk.js": "/Ecommerc/static/js/453.3131af67.chunk.js",
+    "static/media/team-3.jpg": "/Ecommerc/static/media/team-3.74f62e19e7192d398e21.jpg",
+    "static/media/team-1.jpg": "/Ecommerc/static/media/team-1.5bb4ac0fd0c7b6f03e57.jpg",
+    "static/media/team-2.jpg": "/Ecommerc/static/media/team-2.50f6e03cc5b75c405344.jpg",
+    "static/media/team-4.jpg": "/Ecommerc/static/media/team-4.ee9305884e18ca576f12.jpg",
+    "static/media/about-us.webp": "/Ecommerc/static/media/about-us.ee108209184b9ca380c4.webp",
+    "static/media/man1 (2).jpg": "/Ecommerc/static/media/man1 (2).888cfc1a913a5f9383b2.jpg",
+    "static/media/man1 (3).jpg": "/Ecommerc/static/media/man1 (3).f5984ae9bd54c56b0fd2.jpg",
+    "static/media/man1 (4).jpg": "/Ecommerc/static/media/man1 (4).a0adfc0dc61bcd369d2c.jpg",
+    "static/media/man1 (1).jpg": "/Ecommerc/static/media/man1 (1).76971da23b3404d9d149.jpg",
+    "static/media/shop1 (1).jpg": "/Ecommerc/static/media/shop1 (1).ad767477e9395f5cdbe5.jpg",
+    "static/media/m1.webp": "/Ecommerc/static/media/m1.698f5d55d4e953e85843.webp",
+    "static/media/produt.webp": "/Ecommerc/static/media/produt.e14792241f17fbad64f9.webp",
+    "static/media/pro-13.jpg": "/Ecommerc/static/media/pro-13.265a46b37254371b60a5.jpg",
+    "static/media/woman.jpg": "/Ecommerc/static/media/woman.f8726169880ab18f1955.jpg",
+    "static/media/woman1.jpg": "/Ecommerc/static/media/woman1.18770d54fdaa72d05599.jpg",
+    "static/media/pro-demo-5-60.jpg": "/Ecommerc/static/media/pro-demo-5-60.2ee5edf39be6a9ec0724.jpg",
+    "static/media/pro-63.jpg": "/Ecommerc/static/media/pro-63.98e23390a6eeca55e116.jpg",
+    "static/media/man1 .jpg": "/Ecommerc/static/media/man1 .db418d86d52cd02e934f.jpg",
+    "static/media/pro-demo-5-42.jpg": "/Ecommerc/static/media/pro-demo-5-42.10a7762d91f80c2bbd82.jpg",
+    "static/media/pro-41.jpg": "/Ecommerc/static/media/pro-41.45b4ba876340a900d8db.jpg",
+    "static/media/pro-27.jpg": "/Ecommerc/static/media/pro-27.2ee537b6aa8bd1e1625c.jpg",
+    "static/media/womanjpg.jpg": "/Ecommerc/static/media/womanjpg.a30f15decefae2533b78.jpg",
+    "index.html": "/Ecommerc/index.html",
+    "main.bc8b40b4.css.map": "/Ecommerc/static/css/main.bc8b40b4.css.map",
+    "main.ec1c1021.js.map": "/Ecommerc/static/js/main.ec1c1021.js.map",
+    "453.3131af67.chunk.js.map": "/Ecommerc/static/js/453.3131af67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc8b40b4.css",
+    "static/js/main.ec1c1021.js"
+  ]
+}
